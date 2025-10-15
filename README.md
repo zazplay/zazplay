@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-I'm a 22-year-old developer from Ukraine with a passion for creating efficient and scalable applications. With 1 year of hands-on experience in full-stack development, I enjoy tackling complex challenges and learning new technologies.
+I'm a 23-year-old developer from Ukraine with a passion for creating efficient and scalable applications. With 1 year of hands-on experience in full-stack development, I enjoy tackling complex challenges and learning new technologies.
 </p>
 
 ## 🎓 Education
